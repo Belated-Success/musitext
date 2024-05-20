@@ -22,3 +22,4 @@ encodec
 protobuf
 streamlit
 audiocraft
+gunicorn
